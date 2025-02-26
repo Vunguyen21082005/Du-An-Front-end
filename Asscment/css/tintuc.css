@@ -1,0 +1,157 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+.wrapper{
+    
+    margin: auto;
+}
+.header-main{
+    height: 175px;
+    background: rgb(134, 9, 9);
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    margin-left: 50px;
+    
+}
+
+.logo img{
+    margin-top: 40px;
+    width: 100%;
+    
+}
+.nav-main{
+    height: 40px;
+    width: 800px;
+    background: rgb(134, 9, 9);
+    margin-bottom: 0px;
+    float:right;
+}
+.nav-main ul li{
+    list-style: none;
+    float: left;
+    line-height: 40px;
+    padding: 0 30px;
+}
+.nav-main ul li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.nav-main ul li a:hover{
+    color: #000;
+    text-decoration: underline;
+}
+.dm3{
+    width: 250px;
+    height: 40px;
+    text-align: center;
+    background: red;
+    
+
+    margin-top: 5px;
+    margin-left: 100px;
+}
+.dm3 ul li{
+    list-style: none;
+    float: left;
+    line-height: 40px;
+    padding: 0 30px;
+}
+.dm3 ul li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.a{
+    float: left;
+    margin-top:  -100px;
+   
+    height: 40px;
+    width:130px;
+    background: rgb(75, 66, 66);
+    border-radius: 10px;
+    
+    margin-left: 280px;
+
+}
+.a ul li a{
+    text-align: center;
+}
+.b{
+    color: #fff;
+    margin-top: 5px;
+    text-align: center;
+    margin-bottom:  5px;
+    
+}
+.c{
+    margin-top: -90px;
+    margin-left: 0px;
+    
+    float: left;
+    
+}
+.logo {
+    width: 150px; 
+    margin-top: -22px;
+    height: 130px;
+}
+.all{
+    background: #353030;
+    height: 1100px;
+}
+/* hết phần đầu đến phần tiếp theo */
+
+.anh{
+    width: 1000px;
+   height: auto;
+   border: black solid 1px ;
+   margin-left: 100px;
+   
+    
+}
+.anh img{
+    height: 250px;
+    width: 350px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.anh img:hover{
+    box-shadow: 0 0 30px black;
+}
+.text ul li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.text ul li {
+    list-style: none;
+    float: left;
+    line-height: 40px;
+    padding: 0 30px;
+    margin-top: -10px;
+}
+.text{
+    height: 100px;
+    width: 600px;
+    background:none;
+    margin-left: 450px;
+    margin-top: -180px;
+}
+.text p{
+    color: #fff;
+    float: left;
+    margin-left: 30px;
+}
+.footer-main{
+    
+    background: black;
+    border: #000 1px  solid;
+    color: #fff;
+    text-align: center;
+}
+.a5 img{
+    width: 100%;
+}
